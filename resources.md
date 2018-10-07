@@ -21,6 +21,7 @@
 * The media training bible by Brad Phillips
 * 50 one minutes tips to better communication by Philip Bozek
 * Books about how to be a comedian
+    * DO you talk funny by David Nihill
 
 ## Italian Books
 
