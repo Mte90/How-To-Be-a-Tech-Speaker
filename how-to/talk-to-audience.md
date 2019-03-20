@@ -62,3 +62,9 @@ Don’t forget that every discussion as 4 points:
 If your talk or discussion has all the points will be probably an amazing experience for the audience!
 
 These points are not mandatory but helpful on to get ready and draft your talk.
+
+Your backup sentences in case of issues:
+* If your joke falls, say "Pretend it was serious"
+* If you lose your train of thought: "Sometimes silence says a lot, but not this time" or ask to the audience "What I was saying?" when someone reminds you "Oh cool, somene was listening"
+* If the room is too hot say a joke abou the thermostats melted and you cannot change it or if it is cold you can saw that you saw few pinguins around that want to follow the presentation
+* A big noise outside the room "That's what we do to people who try to escaper my talk"
